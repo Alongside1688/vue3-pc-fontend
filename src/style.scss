@@ -1,0 +1,11 @@
+@import '/src/assets/css/reset.scss';
+
+$themeColor: #03a772;
+
+.theme-bc {
+    background-color: $themeColor;
+}
+
+.theme-color {
+    color: $themeColor;
+}
